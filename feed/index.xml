@@ -5,8 +5,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>smallfish blog feed</title>
- <link href="http://chenxiaoyu.org/feed/" rel="self"/>
- <link href="http://chenxiaoyu.org/"/>
+ <link href="http://www.fangzuzong.com//feed/" rel="self"/>
+ <link href="http://www.fangzuzong.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://tjstein.com/</id>
  <author>
