@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title: RabbitMQ trace 日志调试
 ---
-
+a change 
 RabbitMQ 默认日志里只有类似客户端“accpet/close”等信息，对于有异常或者跟踪消息内部结构就比较麻烦了。
 
 翻阅官方教程意外发现了 rabbitmq_tracing 插件和 [firehose](http://www.rabbitmq.com/firehose.html)。
