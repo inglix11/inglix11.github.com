@@ -9,7 +9,7 @@ paginate: 10
 paginate_files:
  - index.html
 
-
+markdown: rdiscount
 pygments: true
 
 exclude:
