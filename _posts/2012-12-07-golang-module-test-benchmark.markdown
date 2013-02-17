@@ -3,7 +3,7 @@
 layout: post
 title: Go 模块测试
 ---
-
+a little change
 Go 很多地方都透露着“约定大于配置”的理论，比如测试、可见性、语法等等。
 
 本文示例模块为：foo.go，则对应的测试模块为：foo_test.go，测试版本为：go v1.0.3。
