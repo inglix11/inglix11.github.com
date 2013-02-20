@@ -48,6 +48,6 @@ title: 港澳通行证办理
 6、办理进度查询
 
 手续办妥后，可以在下面的网站，查询证件办理进度：
-[http://www.zjsgat.gov.cn:8080/was/portals/webSend/crj.jsp 杭州市公安出入境便民服务信息网]
+[杭州市公安出入境便民服务信息网](http://www.zjsgat.gov.cn:8080/was/portals/webSend/crj.jsp) 
 
 签注时间一般是2周。
