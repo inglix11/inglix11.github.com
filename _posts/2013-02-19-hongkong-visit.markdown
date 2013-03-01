@@ -55,3 +55,14 @@ title: 港澳通行证办理流程
 [杭州市公安出入境便民服务信息网](http://www.zjsgat.gov.cn:8080/was/portals/webSend/crj.jsp) 
 
 签注时间一般是2周。
+
+
+
+<script type="text/javascript"> 
+alimama_pid="mm_36047054_3482206_11359872"; 
+alimama_width=950; 
+alimama_height=90; 
+</script> 
+<script src="http://a.alimama.cn/inf.js" type="text/javascript"> 
+</script>
+
