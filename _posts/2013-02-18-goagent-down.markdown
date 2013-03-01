@@ -14,8 +14,7 @@ title: 最新版goagent-v2.1.12 下载
 * 设置代理：127.0.0.1:8087
 * 呼吸自由空气
 
-<code>
-.
+<pre>
 |-- README
 |-- local
 |   |-- CA.crt
@@ -39,11 +38,11 @@ title: 最新版goagent-v2.1.12 下载
 |   |-- proxy.py
 |   |-- python27.dll
 |   |-- python27.exe
-|   `-- python27.zip
-`-- server
+|   -- python27.zip
+-- server
     |-- php
     |   |-- index.php
-    |   `-- tz.php
+    |    -- tz.php
     |-- python
     |   |-- Procfile
     |   |-- README.txt
@@ -54,7 +53,7 @@ title: 最新版goagent-v2.1.12 下载
     |   |-- requirements.txt
     |   |-- robots.txt
     |   |-- wsgi.py
-    |   `-- wsgi_old.py
+    |    -- wsgi_old.py
     |-- uploader.bat
-    `-- uploader.zip
-</code>
+     - uploader.zip
+</pre>
