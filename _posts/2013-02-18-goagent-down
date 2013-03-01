@@ -14,7 +14,7 @@ title: 最新版goagent-v2.1.12 下载
 * 设置代理：127.0.0.1:8087
 * 呼吸自由空气
 
-<code>
+`
 .
 |-- README
 |-- local
@@ -58,3 +58,4 @@ title: 最新版goagent-v2.1.12 下载
     |-- uploader.bat
     `-- uploader.zip
 </code>
+`
